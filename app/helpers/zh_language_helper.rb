@@ -1,0 +1,2 @@
+module ZhLanguageHelper
+end

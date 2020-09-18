@@ -1,0 +1,3 @@
+class EnSessionController < ApplicationController
+
+end

@@ -1,0 +1,2 @@
+class JaSessionController < ApplicationController
+end

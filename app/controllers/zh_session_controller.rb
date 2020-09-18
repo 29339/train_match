@@ -1,0 +1,2 @@
+class ZhSessionController < ApplicationController
+end

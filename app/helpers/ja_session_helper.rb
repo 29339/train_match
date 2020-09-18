@@ -1,0 +1,2 @@
+module JaSessionHelper
+end

@@ -1,0 +1,2 @@
+module JaLanguageHelper
+end
